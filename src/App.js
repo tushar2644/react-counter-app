@@ -6,7 +6,7 @@ import './App.css';
 export default function App() {
   return (
     <div className="app">
-      <h1 className="main-title">Assignment-1 Counter Application Git</h1>
+      <h1 className="main-title">Assignment-1 Counter Application Task</h1>
       <div className="row">
         <ClassCounter />
         <FunctionalCounter />
